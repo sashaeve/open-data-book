@@ -1,19 +1,46 @@
-\documentclass{book}
+\documentclass[12pt]{book}
+
+% Пакети для підтримки української мови та кодування
 \usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
 \usepackage[ukrainian]{babel}
+
+% Основні пакети
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{amsmath, amssymb}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{titlesec}
 
-\title{Відкриті дані в Україні: посібник для початківців}
-\author{Олександр Краковецький}
+% Налаштування сторінки
+\geometry{a4paper, left=3cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\onehalfspacing  % міжрядковий інтервал
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+
+% Стилі розділів
+\titleformat{\chapter}[hang]{\normalfont\LARGE\bfseries}{\thechapter.}{1em}{}
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+% Заголовок документа
+\title{\Huge{Відкриті дані в Україні:}\\\Large{Посібник для початківців}}
+\author{\Large{Олександр Краковецький}}
 \date{2017}
 
 \begin{document}
 
 \maketitle
+\thispagestyle{empty}
 
+\frontmatter
 \tableofcontents
 
+\mainmatter
 \input{00-introduction.tex}
 \input{01-ukraine-open-data-overview.tex}
 \input{02-what-is-open-data.tex}
