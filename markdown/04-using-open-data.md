@@ -16,9 +16,9 @@
 
 Open Data Barometer — спільний дослідницький проєкт Open Data Institute та World Wide Web Foundation. Аналізує глобальні тенденції розвитку відкритих даних, надає порівняльні дані по країнах і регіонах. Україна займає 62 місце із 86 проаналізованих країн (2015 — 55 місце).
 
-![](images/010.jpg)
-![](images/011.jpg)
-![](images/012.jpg)
+![](/images/010.jpg)
+![](/images/011.jpg)
+![](/images/012.jpg)
 
 ### Open Data Index
 
@@ -26,7 +26,7 @@ Open Data Barometer — спільний дослідницький проєкт
 
 Масштабний дослідницький проєкт Open Knowledge Foundation щодо відкритості державних даних у світі. Україна — 54 місце у глобальному рейтингу (2015 рік).
 
-![](images/013.jpg)
+![](/images/013.jpg)
 
 ### The Web Index
 
@@ -34,7 +34,7 @@ Open Data Barometer — спільний дослідницький проєкт
 
 Рейтинг розвитку інтернету в країнах світу від World Wide Web Foundation. Україна — 46 місце серед 86 країн.
 
-![](images/014.jpg)
+![](/images/014.jpg)
 
 ### Open Budget Survey
 
@@ -46,7 +46,7 @@ Open Data Barometer — спільний дослідницький проєкт
 - Нагляд державним органом: 79/100  
 - Нагляд вищого органу фінансового контролю: 83/100
 
-![](images/015.jpg)
+![](/images/015.jpg)
 
 ### E-Government for the People
 
@@ -54,7 +54,7 @@ Open Data Barometer — спільний дослідницький проєкт
 
 Рейтинг ООН з розвитку електронного уряду. Коефіцієнт розвитку електронного уряду України — між 0,5 та 0,75.
 
-![](images/016.jpg)
+![](/images/016.jpg)
 
 ## Проєкти на базі відкритих даних
 
@@ -62,91 +62,91 @@ Open Data Barometer — спільний дослідницький проєкт
 
 - [rename.dp.ua](http://rename.dp.ua/) — повний перелік нових назв вулиць і площ Дніпропетровська.
 
-![](images/017.jpg)
+![](/images/017.jpg)
 
 ### ДонорUA
 
 - [donor.ua](http://donor.ua/) — координація донорів крові та пропаганда донорства в Україні.
 
-![](images/018.jpg)
+![](/images/018.jpg)
 
 ### УкрТрансГаз
 
 - [utg.ua/live/](http://utg.ua/live/) — карта трубопроводів, сховищ та обсягів газу.
 
-![](images/019.jpg)
+![](/images/019.jpg)
 
 ### НБУ
 
 - [nbu.rocks](http://nbu.rocks/) — відкриті дані Національного Банку України про банки.
 
-![](images/020.jpg)
+![](/images/020.jpg)
 
 ### 3G.Multitest.ua
 
 - [3g.multitest.ua](http://3g.multitest.ua/) — карта покриття 3G GSM операторів України.
 
-![](images/021.jpg)
+![](/images/021.jpg)
 
 ### Агенти змін
 
 - [medium.com/@agentyzmin](https://medium.com/@agentyzmin) — система орієнтування в Києві.
 
-![](images/022.jpg)
+![](/images/022.jpg)
 
 ### Лун.UA
 
 - [lun.ua](http://www.lun.ua/) — оренда та продаж нерухомості у Києві та Україні.
 
-![](images/023.jpg)
+![](/images/023.jpg)
 
 ### PEP.ORG.UA
 
 - [pep.org.ua/uk/](http://pep.org.ua/uk/) — відкритий реєстр національних публічних діячів України.
 
-![](images/024.jpg)
+![](/images/024.jpg)
 
 ### Посіпаки
 
 - [posipaky.info](http://posipaky.info/) — база даних помічників народних депутатів України.
 
-![](images/025.jpg)
+![](/images/025.jpg)
 
 ### CityScale
 
 - [cityscale.com.ua](http://www.cityscale.com.ua/) — портал з інтерактивними картами умов життя.
 
-![](images/026.jpg)
+![](/images/026.jpg)
 
 ### ARBUZ
 
 - Мобільний додаток для підвищення безпеки у містах на основі офіційних даних поліції.
 
-![](images/027.jpg)
+![](/images/027.jpg)
 
 ### KyivSmartCity
 
 - [re.kievcity.gov.ua/#/objects](http://re.kievcity.gov.ua/#/objects) — система управління майном громади Києва.
 
-![](images/028.jpg)
+![](/images/028.jpg)
 
 ### Видані направлення авіакомпаніям України
 
 - [Google Maps](https://www.google.com/maps/d/viewer?mid=zQyzchol-IlQ.kqJvVjvXIY-s&hl=en_US) — призначення для експлуатації міжнародних повітряних ліній.
 
-![](images/029.jpg)
+![](/images/029.jpg)
 
 ### Tesla Club Ukraine
 
 - [tesla-club.com.ua/gmap](http://tesla-club.com.ua/gmap) — мережа заправок для електромобілів.
 
-![](images/030.jpg)
+![](/images/030.jpg)
 
 ### Дороги України
 
 - [uaroads.com](http://uaroads.com/) — інформація про стан доріг в Україні.
 
-![](images/031.jpg)
+![](/images/031.jpg)
 
 ### Інші проєкти
 
