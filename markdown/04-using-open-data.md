@@ -16,9 +16,9 @@
 
 Open Data Barometer — спільний дослідницький проєкт Open Data Institute та World Wide Web Foundation. Аналізує глобальні тенденції розвитку відкритих даних, надає порівняльні дані по країнах і регіонах. Україна займає 62 місце із 86 проаналізованих країн (2015 — 55 місце).
 
-![](images/010.gif)
-![](images/011.gif)
-![](images/012.gif)
+![](images/010.jpg)
+![](images/011.jpg)
+![](images/012.jpg)
 
 ### Open Data Index
 
@@ -46,7 +46,7 @@ Open Data Barometer — спільний дослідницький проєкт
 - Нагляд державним органом: 79/100  
 - Нагляд вищого органу фінансового контролю: 83/100
 
-![](images/015.gif)
+![](images/015.jpg)
 
 ### E-Government for the People
 
@@ -62,55 +62,55 @@ Open Data Barometer — спільний дослідницький проєкт
 
 - [rename.dp.ua](http://rename.dp.ua/) — повний перелік нових назв вулиць і площ Дніпропетровська.
 
-![](images/017.gif)
+![](images/017.jpg)
 
 ### ДонорUA
 
 - [donor.ua](http://donor.ua/) — координація донорів крові та пропаганда донорства в Україні.
 
-![](images/018.gif)
+![](images/018.jpg)
 
 ### УкрТрансГаз
 
 - [utg.ua/live/](http://utg.ua/live/) — карта трубопроводів, сховищ та обсягів газу.
 
-![](images/019.gif)
+![](images/019.jpg)
 
 ### НБУ
 
 - [nbu.rocks](http://nbu.rocks/) — відкриті дані Національного Банку України про банки.
 
-![](images/020.gif)
+![](images/020.jpg)
 
 ### 3G.Multitest.ua
 
 - [3g.multitest.ua](http://3g.multitest.ua/) — карта покриття 3G GSM операторів України.
 
-![](images/021.gif)
+![](images/021.jpg)
 
 ### Агенти змін
 
 - [medium.com/@agentyzmin](https://medium.com/@agentyzmin) — система орієнтування в Києві.
 
-![](images/022.gif)
+![](images/022.jpg)
 
 ### Лун.UA
 
 - [lun.ua](http://www.lun.ua/) — оренда та продаж нерухомості у Києві та Україні.
 
-![](images/023.gif)
+![](images/023.jpg)
 
 ### PEP.ORG.UA
 
 - [pep.org.ua/uk/](http://pep.org.ua/uk/) — відкритий реєстр національних публічних діячів України.
 
-![](images/024.gif)
+![](images/024.jpg)
 
 ### Посіпаки
 
 - [posipaky.info](http://posipaky.info/) — база даних помічників народних депутатів України.
 
-![](images/025.gif)
+![](images/025.jpg)
 
 ### CityScale
 
@@ -122,31 +122,31 @@ Open Data Barometer — спільний дослідницький проєкт
 
 - Мобільний додаток для підвищення безпеки у містах на основі офіційних даних поліції.
 
-![](images/027.gif)
+![](images/027.jpg)
 
 ### KyivSmartCity
 
 - [re.kievcity.gov.ua/#/objects](http://re.kievcity.gov.ua/#/objects) — система управління майном громади Києва.
 
-![](images/028.gif)
+![](images/028.jpg)
 
 ### Видані направлення авіакомпаніям України
 
 - [Google Maps](https://www.google.com/maps/d/viewer?mid=zQyzchol-IlQ.kqJvVjvXIY-s&hl=en_US) — призначення для експлуатації міжнародних повітряних ліній.
 
-![](images/029.gif)
+![](images/029.jpg)
 
 ### Tesla Club Ukraine
 
 - [tesla-club.com.ua/gmap](http://tesla-club.com.ua/gmap) — мережа заправок для електромобілів.
 
-![](images/030.gif)
+![](images/030.jpg)
 
 ### Дороги України
 
 - [uaroads.com](http://uaroads.com/) — інформація про стан доріг в Україні.
 
-![](images/031.gif)
+![](images/031.jpg)
 
 ### Інші проєкти
 
